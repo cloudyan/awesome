@@ -86,6 +86,10 @@ https://github.com/chenhaoact/github-project-recommend
 
 - [postcss-bem](webcoding/postcss-bem)
 
+## shell
+
+- [shell](https://github.com/oscm/shell) Infrastructure Management Shell - Linux http://netkiller.github.io/
+
 ## js OCR
 
 ## project
@@ -122,10 +126,21 @@ https://github.com/chenhaoact/github-project-recommend
 - [Bootstrap-IE6](https://github.com/cloudyan/Bootstrap-IE6)
 - [kissy](https://github.com/kissyteam/kissy) A Powerful Collection Of Modules http://docs.kissyui.com
 - [Alice](https://github.com/cloudyan/Alice) 写样式的一种方式 http://aliceui.github.io/
+- [vssue](https://github.com/meteorlxy/vssue) 📫 A Vue-powered Issue-based Comment Plugin https://vssue.js.org
+- [strapi](https://github.com/strapi/strapi) 🚀 Open source Node.js Headless CMS to easily build customisable APIs https://strapi.io
+- [baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。https://hacpai.com/tag/bnd (测试无效)
+- [Bilibili_Anime4K](https://github.com/net2cn/Bilibili_Anime4K) 通过Anime4K滤镜让Bilibili上的2D番剧更加锐利!
+- [egg-cnode](https://github.com/cnodejs/egg-cnode) CNode 社区 Egg 版本 https://cnodejs.org/
+- [scrm](https://github.com/damoqiongqiu/scrm) scrm小程序
+- [nodeclub](https://github.com/cnodejs/nodeclub) 🐤Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统 http://cnodejs.org/
+- [notable](https://github.com/notable/notable) 基于markdown的笔记应用程序
+- [2048](https://github.com/gabrielecirulli/2048) A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone). Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
 ## tutorial
 
 - [vscode-extension-tutorial](https://github.com/nefe/vscode-extension-tutorial)
+- [juejinAnalyze](https://github.com/gengchen528/juejinAnalyze) 掘金个人粉丝及关注用户数据全方位分析
+- [mvvm](https://github.com/DMQ/mvvm) 剖析vue实现原理，自己动手实现mvvm
 
 ## source
 

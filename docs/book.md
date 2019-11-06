@@ -28,6 +28,11 @@
 - [medlog](https://github.com/yexiaochai/medlog) 数据可视化系统，持续迭代，包括前端采集+数据设计+大数据存储+可视化展示几个大块
 - [progit2](https://github.com/progit/progit2) Pro Git 2nd Edition [中文版](https://git-scm.com/book/zh/v2)
 - [deep-into-node](https://github.com/yjhjstz/deep-into-node) 《深入理解Node.js：核心思想与源码分析》
+- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) TypeScript 入门教程
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) 🛁 Clean Code concepts adapted for JavaScript 代码整洁之道
+- [eloquent-js-3e-zh](https://github.com/wizardforcel/eloquent-js-3e-zh) [译] JavaScript 编程精解 中文第三版 https://wizardforcel.gitbooks.io/eloquent-js-3e/content/
+- [learn-regex](https://github.com/ziishaned/learn-regex) [中文版](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+- [css-handbook](https://github.com/webcoding/css-handbook) CSS参考手册（编著：飘零雾雨） https://css.deepjs.cn
 
 ## 知识点
 
@@ -39,7 +44,7 @@
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) 💯 Materials to help you rock your next coding interview ([en](https://yangshun.github.io/tech-interview-handbook/))
 - [learning-article/面试资源.md](https://github.com/webproblem/learning-article/blob/master/%E9%9D%A2%E8%AF%95%E8%B5%84%E6%BA%90.md)
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
-- [前端开发面试题](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions)
+- [My-blog](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions) 马云云在Github的学习片段 前端开发面试题
 - [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [前端面试每日 3+1](https://github.com/haizlin/fe-interview/issues)
 - [编码面试大学](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) Coding Interview University 一套完整的学习手册帮助自己准备 Google 的面试
