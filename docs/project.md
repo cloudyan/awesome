@@ -1,6 +1,6 @@
 # Awesome project
 
-https://github.com/chenhaoact/github-project-recommend
+- https://github.com/chenhaoact/github-project-recommend
 
 ## JQuery
 
@@ -19,6 +19,9 @@ https://github.com/chenhaoact/github-project-recommend
 
 - tapable
 - plugin
+- [tiny-emitter](https://github.com/scottcorgan/tiny-emitter) A tiny (less than 1k) event emitter library.
+
+- [immu](https://github.com/scottcorgan/immu) A TINY, fail-fast, lazy, immutable Javascript objects library.
 
 ## react
 
@@ -30,6 +33,8 @@ https://github.com/chenhaoact/github-project-recommend
 - next.js
 
 ## Vue
+
+- https://github.com/vuejs/awesome-vue
 
 - vue
 - vue-router
