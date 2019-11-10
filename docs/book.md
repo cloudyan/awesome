@@ -53,6 +53,7 @@
 - [front-end-study](https://github.com/CompileYouth/front-end-study) 前端博客随笔
 - [DDFE-blog](https://github.com/DDFE/DDFE-blog) 滴滴平台技术部前端 Blog
 - [30-seconds-zh_CN](https://github.com/b3log/30-seconds-zh_CN) 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。https://hacpai.com/tag/30seconds
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) Node.js 最佳实践
 
 文章
 
